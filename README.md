@@ -1,2 +1,2 @@
 # Sudoku-Game
-My version of sudoku
+Sudoku Simlator
